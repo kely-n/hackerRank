@@ -1,4 +1,5 @@
 from itertools import permutations
+
 #This problem was asked by Snapchat.
 
 #Given a string of digits, generate all possible valid IP address combinations.
